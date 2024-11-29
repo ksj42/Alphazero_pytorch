@@ -1,3 +1,9 @@
+### Alphazero_pytorch
+Modified version for training and game code to run with PyTorch
+24.11.29
+Verify PyTorch train.py execution
+Verify PyTorch human_play.py execution
+
 <<<<<<< HEAD
 ## AlphaZero-Gomoku
 This is an implementation of the AlphaZero algorithm for playing the simple board game Gomoku (also called Gobang or Five in a Row) from pure self-play training. The game Gomoku is much simpler than Go or chess, so that we can focus on the training scheme of AlphaZero and obtain a pretty good AI model on a single PC in a few hours. 
@@ -64,6 +70,4 @@ The models (best_policy.model and current_policy.model) will be saved every a fe
 ### Further reading
 My article describing some details about the implementation in Chinese: [https://zhuanlan.zhihu.com/p/32089487](https://zhuanlan.zhihu.com/p/32089487) 
 =======
-# Alphazero_pytorch
-train and game code with alphazero using pytorch
->>>>>>> 15f35e350b1f1f786229f155a801391777311d76
+>>>>>>> 
