@@ -1,8 +1,8 @@
 ### Alphazero_pytorch
-Modified version for training and game code to run with PyTorch
-24.11.29
-Verify PyTorch train.py execution
-Verify PyTorch human_play.py execution
+# Modified version for training and game code to run with PyTorch
+# 24.11.29
+# Verify PyTorch train.py execution
+# Verify PyTorch human_play.py execution
 
 <<<<<<< HEAD
 ## AlphaZero-Gomoku
